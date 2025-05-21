@@ -7,6 +7,6 @@ Three body problem:
     
 Digital signal processing:
   - Low pass and band pass filter simulations
-  - Anti aliasing analysis
+  - Anti-aliasing analysis
   - Fourier components editting
   - Plots of signals and spectrums
